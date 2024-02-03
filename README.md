@@ -2,6 +2,8 @@
 
 Hello everyone! 👋 This is a small project developed during our university's computer graphics course. We utilized Python and its OpenGL libraries, drawing inspiration from YouTube tutorials, ChatGPT, StackOverflow, and various other free online resources.
 
+### For this project to work make sure to have this [folder](https://drive.google.com/drive/folders/1JzQ77b4D_ei6ABTgEO-oiTMVJ4nKlsSg?usp=sharing) where you downloaded the .py file. It was provided to exclusively work on this project.
+
 ## Group Members:
 - [Md. Ratul Mushfique](https://www.facebook.com/ratul.mushfique/)
 - [Sadman Safiur Rahman](https://www.facebook.com/sadmansafiur.rahman)

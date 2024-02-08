@@ -18,10 +18,26 @@ Experience a captivating 2D top-view game where a single car maneuvers through o
 - **Keyboard Function:** Right and Left Arrow keys for car movement.
 - **Mouse Function:** Left-click to Pause/Resume gameplay, Right-click to Restart.
 
+Feel free to explore and contribute to our project on GitHub! 
+
 ## Gameplay Demo
+
+### Car Movement (Left & Right Key Arrow) & Point Collection
 ![right_left_key](https://github.com/Ratul-byte/CSE423-Computer-Graphics-Project/assets/91417965/3ff406f5-a3a1-464c-8079-39f6515b61b6)
 
-Feel free to explore and contribute to our project on GitHub! 
+### Pause/Play (Left Mouse Button)
+![pause_play](https://github.com/Ratul-byte/CSE423-Computer-Graphics-Project/assets/91417965/e3d5fa2a-c675-4f65-9128-89153e97ccef)
+
+### Object Collision and Game Over
+![gameover](https://github.com/Ratul-byte/CSE423-Computer-Graphics-Project/assets/91417965/501746d0-6a4c-4037-b0c1-6caedea8089d)
+
+### Health Recovery
+![recover_life](https://github.com/Ratul-byte/CSE423-Computer-Graphics-Project/assets/91417965/6c306fbc-6426-4b2e-9a40-26220701ed2c)
+
+### Restart (Right Mouse Button)
+![restart](https://github.com/Ratul-byte/CSE423-Computer-Graphics-Project/assets/91417965/a2346bbd-39ce-40ef-a397-eb9ce6115d58)
+
+
 
 
 
